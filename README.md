@@ -1,4 +1,4 @@
-Github Username -ST10278616
+Github link - https://github.com/ST10278616/Programming_POE.git
 
 Recipe Management Application
 This is a recipe management application developed for a programming course. It allows users to add, view, and manage recipes in a user-friendly graphical interface.
